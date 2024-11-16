@@ -1,1 +1,2 @@
-# Supplementary results for the rebuttal of the paper "Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder" (ICLR25)
+# Supplementary results 
+# ICLR25 rebuttal of "Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder"
